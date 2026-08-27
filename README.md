@@ -3,7 +3,7 @@ Projects completed in Computer Science I
 
 My name is Elena. This portfolio includes projects I completed in Computer Science I.
 
-##Skills Practiced:
+## Skills Practiced:
 - Variables
 - Input and Output
 - If statements
