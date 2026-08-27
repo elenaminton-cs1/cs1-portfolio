@@ -15,3 +15,10 @@ This is my first Python program. It prints a message to the screen.
 - How to save and organize programming projects
 - How to upload a project to GitHub
 
+## Future Improvements
+- As the user for their name
+- Print a personalized greeting
+- Add comments
+
+## Author
+Created by Elena Minton as part of my Computer Science I coursework. 
