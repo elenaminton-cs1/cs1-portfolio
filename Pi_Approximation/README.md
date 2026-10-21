@@ -4,7 +4,7 @@ This program asks the user for an error tolerance. Then the program prints pi ap
 
 
 
-##Skills Practiced
+## Skills Practiced
 using while loops
 using floats
 using input from the user
